@@ -1,4 +1,4 @@
-# Sprint Challenge: Algorithms
+# Sprint Challenge: Algorithms - Maxime Salomon
 
 In this week's Sprint you explored and implemented some classic algorithmic approaches and used them to solve novel problems. You also implemented some classic and fundamental sorting algorithms and learned how to go about evaluating their respective runtimes and performance. This Sprint Challenge aims to assess your comfort with these topics through exercises that build on the algorithmic intuition you've started to build up.
 
@@ -22,7 +22,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 This Sprint Challenge is split into two separate parts that test your ability to analyze and write algorithms.
 
-### Short Answer Questions 
+### Short Answer Questions ✅
 
  > It is recommended that you spend no more than 1 hour on this portion of the Sprint Challenge.
 
